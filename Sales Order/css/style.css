@@ -1,0 +1,94 @@
+.navbar-head{
+	    text-align: center;
+    background: #03A9F4;
+    color: white;
+}
+.rope{
+	display: flex;
+}
+.p-name{
+
+width: 103%;
+    font-size: 12px;
+        margin: 7px 0px 0px;
+        font-weight: 700;
+}
+.p-id{
+	width: 95%;
+	font-size: 12px;
+	    margin: 7px 0px 0px;
+	    font-weight: 700;
+
+}
+.box-od{
+	box-shadow: 0px 0px 4px 3px #ded6d6;
+    margin-top: 49px;
+}
+
+.ot{
+	display: flex;
+}
+.oc{
+	background: #03A9F4;
+}
+.csk{
+	font-weight: 800;
+	font-size: 15px;
+}
+.form-control{
+	height: 24px !important;
+	padding: 3px 12px !important;
+}
+#cusname{
+margin-right: 15px;
+}
+#cusid{
+
+}
+.uv{
+background: #2196F3;
+    border-color: #f5f3f30f;
+    font-size: 22px;
+    color: #ffff;
+}
+.uv:hover{
+	background: #2196F3;
+    color: black;
+}
+/*.kl{
+    background: red;
+    border: white;
+    border-radius: 7px 7px 7px 7px;
+    color: white;
+}*/
+.fc-d{
+margin-top: 50px;
+    display: block;
+}
+.ops{
+	background: #ffff;
+}
+.navbar-brand{
+margin: 10px 14px 10px 14px;
+}
+.navbar-nav {
+	margin: 11px 0px 0px 200px !important;
+	}
+.navbar-inverse {
+	border-color: #ded7d7 !important;
+    box-shadow: 0px 1px 3px 0px #ded7d7;
+}
+.sd{
+	font-size: 11px;
+	padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.kg{
+	font-size: 12px;
+}
+.fc{
+	    margin-left: 154px;
+}
+.obj{
+	height: 44px;
+}
